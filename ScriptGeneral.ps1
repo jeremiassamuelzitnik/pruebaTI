@@ -1,3 +1,3 @@
 wget https://drive.mistrelci.com.ar/archivos//General.zip -OutFile $env:TEMP\JeremosTKBio\General.zip
-Expand-Archive -Path $env:TEMP\JeremosTKBio\General.Zip -DestinationPath $env:TEMP\JeremosTKBio\
+Expand-Archive -Path $env:TEMP\JeremosTKBio\General.Zip -DestinationPath $env:TEMP\JeremosTKBio\ -force -confirm
 Start-Process  $env:TEMP\JeremosTKBio\General\script` general.cmd
