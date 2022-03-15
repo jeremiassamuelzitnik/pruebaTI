@@ -86,4 +86,10 @@ Remove-Item $carpetaTemporalScript\ -Recurse -Force -Confirm:$false
 
 
 obtenerAssets
+
+
+
+
+
+
 limpiarTemporalesScript
