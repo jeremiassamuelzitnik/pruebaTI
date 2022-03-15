@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".3g2" ProgId="WMP11.AssocFile.3G2" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".3gp" ProgId="WMP11.AssocFile.3GP" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".3gp2" ProgId="WMP11.AssocFile.3G2" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".3gpp" ProgId="WMP11.AssocFile.3GP" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".aac" ProgId="WMP11.AssocFile.ADTS" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".acr" ProgId="IrfanView.dcm" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".acrobatsecuritysettings" ProgId="Applications\AcroRd32.exe" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".adts" ProgId="WMP11.AssocFile.ADTS" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".aif" ProgId="WMP11.AssocFile.AIFF" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".aifc" ProgId="WMP11.AssocFile.AIFF" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".aiff" ProgId="WMP11.AssocFile.AIFF" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".ani" ProgId="IrfanView.ani" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".asf" ProgId="WMP11.AssocFile.ASF" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".asx" ProgId="WMP11.AssocFile.ASX" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".au" ProgId="WMP11.AssocFile.AU" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".avi" ProgId="WMP11.AssocFile.AVI" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".b3d" ProgId="IrfanView.b3d" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".bmp" ProgId="IrfanView.bmp" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".cda" ProgId="WMP11.AssocFile.CDA" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".clp" ProgId="IrfanView.clp" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".cr2" ProgId="IrfanView.cr2" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".cr3" ProgId="IrfanView.cr3" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".crw" ProgId="IrfanView.crw" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".cur" ProgId="IrfanView.cur" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".dcm" ProgId="IrfanView.dcm" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".dcx" ProgId="IrfanView.dcx" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".dds" ProgId="IrfanView.dds" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".dib" ProgId="IrfanView.bmp" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".djvu" ProgId="IrfanView.djvu" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".ecw" ProgId="IrfanView.ecw" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".emf" ProgId="IrfanView.emf" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".eps" ProgId="IrfanView.eps" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".exr" ProgId="IrfanView.exr" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".fdf" ProgId="AcroExch.FDFDoc" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".flac" ProgId="WMP11.AssocFile.FLAC" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".flv" ProgId="IrfanView.flv" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".g3" ProgId="IrfanView.g3" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".gif" ProgId="IrfanView.gif" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".hdp" ProgId="IrfanView.hdp" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".heic" ProgId="IrfanView.heic" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".htm" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier=".html" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier=".ico" ProgId="IrfanView.ico" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".iff" ProgId="IrfanView.iff" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".ima" ProgId="IrfanView.dcm" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".inf" ProgId="inffile" ApplicationName="Bloc de notas" />
+  <Association Identifier=".iw44" ProgId="IrfanView.djvu" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".j2k" ProgId="IrfanView.jp2" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".jls" ProgId="IrfanView.jls" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".jng" ProgId="IrfanView.jng" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".jp2" ProgId="IrfanView.jp2" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".jpc" ProgId="IrfanView.jp2" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".jpe" ProgId="IrfanView.jpg" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".jpeg" ProgId="IrfanView.jpg" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".jpg" ProgId="IrfanView.jpg" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".jpm" ProgId="IrfanView.jpm" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".jxr" ProgId="IrfanView.hdp" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".lbm" ProgId="IrfanView.iff" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".m1v" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".m2t" ProgId="WMP11.AssocFile.M2TS" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".m2ts" ProgId="WMP11.AssocFile.M2TS" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".m3u" ProgId="WMP11.AssocFile.m3u" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".m4a" ProgId="WMP11.AssocFile.M4A" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".m4v" ProgId="WMP11.AssocFile.MP4" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".mid" ProgId="WMP11.AssocFile.MIDI" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".midi" ProgId="WMP11.AssocFile.MIDI" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".mk3d" ProgId="WMP11.AssocFile.MK3D" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".mka" ProgId="WMP11.AssocFile.MKA" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".mkv" ProgId="WMP11.AssocFile.MKV" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".mng" ProgId="IrfanView.mng" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".mov" ProgId="WMP11.AssocFile.MOV" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".MP2" ProgId="WMP11.AssocFile.MP3" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".mp2v" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".mp3" ProgId="WMP11.AssocFile.MP3" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".mp4" ProgId="WMP11.AssocFile.MP4" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".mp4v" ProgId="WMP11.AssocFile.MP4" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".mpa" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".MPE" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".mpeg" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".mpg" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".mpv2" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".mts" ProgId="WMP11.AssocFile.M2TS" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".ogg" ProgId="IrfanView.ogg" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".pcx" ProgId="IrfanView.pcx" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".pdf" ProgId="PDF24.Reader" ApplicationName="PDF24 Reader" />
+  <Association Identifier=".pdfxml" ProgId="Applications\AcroRd32.exe" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".pdx" ProgId="PDXFileType" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".pgm" ProgId="IrfanView.pgm" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".png" ProgId="IrfanView.png" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".ppm" ProgId="IrfanView.ppm" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".ps" ProgId="IrfanView.eps" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".ps1" ProgId="Microsoft.PowerShellScript.1" ApplicationName="Bloc de notas" />
+  <Association Identifier=".psd" ProgId="IrfanView.psd" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".psd1" ProgId="Microsoft.PowerShellData.1" ApplicationName="Bloc de notas" />
+  <Association Identifier=".psm1" ProgId="Microsoft.PowerShellModule.1" ApplicationName="Bloc de notas" />
+  <Association Identifier=".psp" ProgId="IrfanView.psp" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".raw" ProgId="IrfanView.raw" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".rgb" ProgId="IrfanView.sgi" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".rle" ProgId="IrfanView.rle" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".rmi" ProgId="WMP11.AssocFile.MIDI" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".sff" ProgId="IrfanView.sff" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".sgi" ProgId="IrfanView.sgi" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".sid" ProgId="IrfanView.sid" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".snd" ProgId="WMP11.AssocFile.AU" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".sun" ProgId="IrfanView.ras" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".swf" ProgId="IrfanView.swf" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".tif" ProgId="IrfanView.tif" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".tiff" ProgId="IrfanView.tif" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".TS" ProgId="WMP11.AssocFile.TTS" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".TTS" ProgId="WMP11.AssocFile.TTS" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".url" ProgId="IE.AssocFile.URL" ApplicationName="Explorador de Internet" />
+  <Association Identifier=".wav" ProgId="WMP11.AssocFile.WAV" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".wax" ProgId="WMP11.AssocFile.WAX" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".wbmp" ProgId="IrfanView.wbmp" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".wdp" ProgId="IrfanView.hdp" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".webp" ProgId="IrfanView.webp" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".website" ProgId="IE.AssocFile.WEBSITE" ApplicationName="Internet Explorer" />
+  <Association Identifier=".wm" ProgId="WMP11.AssocFile.ASF" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".wma" ProgId="WMP11.AssocFile.WMA" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".wmf" ProgId="IrfanView.wmf" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".wmv" ProgId="WMP11.AssocFile.WMV" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".wmx" ProgId="WMP11.AssocFile.ASX" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".WPL" ProgId="WMP11.AssocFile.WPL" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".wvx" ProgId="WMP11.AssocFile.WVX" ApplicationName="Reproductor de Windows Media" />
+  <Association Identifier=".xbm" ProgId="IrfanView.xbm" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".xdp" ProgId="AcroExch.XDPDoc" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".xfdf" ProgId="AcroExch.XFDFDoc" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".xpm" ProgId="IrfanView.xpm" ApplicationName="IrfanView 64-bit" />
+  <Association Identifier=".zip" ProgId="CompressedFolder" ApplicationName="Explorador de Windows" />
+  <Association Identifier="ACROBAT" ProgId="acrobat" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier="http" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier="https" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier="mailto" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier="microsoft-edge" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="microsoft-edge-holographic" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="ms-xbl-3d8b930f" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+</DefaultAssociations>
