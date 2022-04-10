@@ -21,28 +21,61 @@
 
 # Definimos parametros.
 $LinksAssets = "https://raw.githubusercontent.com/jeremiassamuelzitnik/pruebaTI/master/General.zip"
-$carpetaTemporalScript = "$env:TEMP\ScriptGeneral"
+$directorioScript = "$env:TEMP\ScriptGeneral"
 
 
 # Definimos funciones
 function obtenerAssets {
 
     # Creamos la carpeta temporal.
-    md $carpetaTemporalScript\
+    md $directorioScript\
     CLS
 
     Echo Descargando archivos necesarios...
-    wget $LinksAssets -OutFile $carpetaTemporalScript\General.Zip
+    wget $LinksAssets -OutFile $directorioScript\General.Zip
 
     Echo Descomprimiendo archivos necesarios...
-    Expand-Archive -Path $carpetaTemporalScript\General.Zip -DestinationPath $carpetaTemporalScript\ -force
+    Expand-Archive -Path $directorioScript\General.Zip -DestinationPath $directorioScript\ -force
     CLS
 
 }
 
-function Irfanview {
+function irfanview {
+#
+    $directorioScript = echo split-path -parent $MyInvocation.MyCommand.Definition
+#
 
-#$carpetaTemporalScript\Irfanview
+    #Instalar irfanview
+
+    cd '$directorioScript\General\IrfanViewer\ '
+    Start-Process -FilePath iview459_x64_setup.exe -ArgumentList '/silent /desktop=0 /thumbs=0 /group=1' -Wait 
+
+
+    #Indico los archivos a copiar
+    $copiarAUsuarios = "$directorioScript\General\IrfanViewer\Appdata\"
+
+    echo $copiarAUsuarios
+    pause
+    #Obtengo los nombres de usuario
+    $usuarios = Get-ChildItem -Path "$env:SystemDrive\users" -name
+    
+    #Obtengo el numero de usuarios
+    $nroUsuarios = $usuarios.Count
+
+    #Recorro carpetas de usuarios copiando archivos en cada una.
+    while ( $nroUsuarios -gt 0 ) {
+        $nroUsuarios -= 1
+        $usuarioActual = $usuarios[$nroUsuarios]
+        $nombreUsuario = Write-Host $env:SystemDrive\users\$usuarioActual
+
+        Copy-Item -Path $copiarAUsuarios -Destination $env:SystemDrive\users\$usuarioActual -Recurse -Force -Passthru
+        pause
+    }
+    #Copio tambien en usuario default
+    Copy-Item $copiarAUsuarios $env:SystemDrive\users\Default -Recurse -Force -Passthru
+
+    #Copio los archivos necesarios en programfiles
+    
 
 }
 
@@ -80,16 +113,17 @@ powershell "iex ((New-Object System.Net.WebClient).DownloadString('https://git.i
 
 function limpiarTemporalesScript {
 
-Remove-Item $carpetaTemporalScript\ -Recurse -Force -Confirm:$false
+Remove-Item $directorioScript\ -Recurse -Force -Confirm:$false
 
 }
+
+
 
 
 obtenerAssets
 
 
-
-
+irfanview
 
 
 limpiarTemporalesScript
